@@ -8,9 +8,10 @@
 ' TERMS OF USE:
 
 ' This program is free software. Redistribution in the form of source code only,
-' strictly for non-profit purposes, with or without modification is permitted.
+' and any modification is absolutely permitted.
 ' The author accepts no liability for anything that may result from the usage of
-' this product. This notice must not be removed or altered in any way whatsoever.
+' this product. 
+' This notice must not be removed or altered in any way whatsoever.
 '________________________________________________________________________________________
 
 Imports System.Data.SqlClient
@@ -50,9 +51,9 @@ Public Class CodeLess
     ''' <returns>retorna verdadeiro se tudo ocorrer bem, e falso caso dê algo errado.</returns>
     Public Function BD_retornoBooleanoAccess(ByVal comando As String) As Boolean
 
-        ' conexaoOLEDB = New OleDbConnection(System.Configuration.ConfigurationManager.ConnectionStrings("conexaoBD").ConnectionString)
+        'conexaoOLEDB = New OleDbConnection(System.Configuration.ConfigurationManager.ConnectionStrings("conexaoBD").ConnectionString)
         'Dim chave As String = System.Configuration.ConfigurationManager.ConnectionStrings("conexaoBD").ConnectionString
-        'chave = chave.Replace("a", "")
+        'chave = chave.Replace("a", "5")
         'conexaoOLEDB = New OleDbConnection(chave)
 
         unlock()'refere-se a uma função que pode ser criada e utilizada a criterio do desenvolvedor para desbloquear bases com senha*
