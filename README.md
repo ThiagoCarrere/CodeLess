@@ -2,8 +2,9 @@
 Biblioteca de funções 
 
 
-Essa é uma pequena biblioteca de funções as quais já utilizei e algumas ainda utilizo em alguns projetos, 
-pretendo ir melhorando e aumentando ela assim que eu for organizando os códigos, 
+Essa é "ainda" uma pequena biblioteca de funções as quais já utilizei e algumas ainda reutilizo em alguns projetos, 
+a biblioteca tem o objetivo de facilitar e agilizar no desenvolvimento visto que oferece funções que podem ser utilizadas
+de maneira fácil, pretendo ir melhorando e aumentando ela assim que eu for organizando os códigos, 
 por enquanto estou trabalhando mais focado em vb.net, em um futuro próximo pretendo postar também em outras linguagens!
 
 Espero que essas funções possam ajudar alguém, assim como já me ajudou também d[^.^]b
