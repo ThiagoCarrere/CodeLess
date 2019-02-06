@@ -1,5 +1,5 @@
 # Main
-Biblioteca de funções 
+Biblioteca de funções
 
 
 Esta é "ainda" uma pequena biblioteca de funções as quais já utilizei e algumas ainda reutilizo em alguns projetos, 
