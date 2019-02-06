@@ -1,8 +1,8 @@
 '________________________________________________________________________________________
 ' Author: THIAGO CARRERE.
-' Product:  CodeLess.
+' Product:  Main.
 ' Last Release:  13/01/2019.
-' Copyright ©2010-2018 All Rights Reserved.
+' Copyright ©2010-2019 All Rights Reserved.
 '________________________________________________________________________________________
 
 ' TERMS OF USE:
