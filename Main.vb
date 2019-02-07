@@ -28,7 +28,7 @@ Imports System.Management
 Imports System.Windows.Forms
 Imports System.Net.NetworkInformation
 
-Public Class CodeLess
+Public Class Main
 
 
 
